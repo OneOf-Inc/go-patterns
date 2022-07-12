@@ -104,17 +104,10 @@ A curated collection of idiomatic design & application patterns for Go language.
 | [Functional Options](/idiom/functional-options.md) | Allows creating clean APIs with sane defaults and idiomatic overrides |   ✔    |
 
 ## Anti-Patterns
-
-<<<<<<< Updated upstream
 | Pattern | Description | Status |
 |:-------:|:----------- |:------:|
 | [Cascading Failures](/anti-patterns/cascading_failures.md) | A failure in a system of interconnected parts in which the failure of a part causes a domino effect | ✘ |
 
-### Additional Links
+## Additional Links
 - https://www.youtube.com/c/TensorProgramming
 -- Has a lot of good videos on Go programming, including playlists specifically for blockchain.
-=======
-|                          Pattern                           | Description                                                                                         | Status |
-| :--------------------------------------------------------: | :-------------------------------------------------------------------------------------------------- | :----: |
-| [Cascading Failures](/anti-patterns/cascading_failures.md) | A failure in a system of interconnected parts in which the failure of a part causes a domino effect |   ✘    |
->>>>>>> Stashed changes
